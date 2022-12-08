@@ -1,0 +1,7 @@
+os
+shutil
+sqlite3
+base64
+json
+win32crypt
+pycryptodomex
