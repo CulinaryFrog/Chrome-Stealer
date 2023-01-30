@@ -33,4 +33,4 @@
 *.db
 
 #other
-/Debug
+/Debug/
